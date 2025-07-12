@@ -1,2 +1,3 @@
 # C-Projects
-<img width="2048" height="2048" alt="C_Image" src="https://github.com/user-attachments/assets/1f3820fc-e112-499b-9c0b-50d57049d847" />
+
+<img width="500" height="500" alt="C_Image" src="https://github.com/user-attachments/assets/2367eb9a-e060-4147-ab35-23189e02305d" />
