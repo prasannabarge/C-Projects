@@ -29,3 +29,6 @@ int main(void){
   printf("\n Bye Bye , Thanks for playing");
   printf("\n  Developed By:Prasanna Barge ");
 }
+
+
+// the no is guessing game and rand and srand function involves the seed randome number that holds under the stdlib header file
